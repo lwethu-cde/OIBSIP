@@ -13,8 +13,8 @@ Counts and displays the total number of attempts made by the player.
 
 
 Technologies Used:
-Java
-Java Development Kit (JDK)
+Java, 
+Java Development Kit (JDK), 
 IntelliJ IDEA
 
 How to Run the Program:
